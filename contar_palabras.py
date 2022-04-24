@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
+
 from pyspark import SparkContext
 import sys
 
@@ -41,3 +41,4 @@ if __name__ == "__main__":
         print("Uso: python3 {0} <file>".format(sys.argv[0]))
     else:
         main(sys.argv[1])
+"""
